@@ -13,3 +13,10 @@
 結果
 
 ![image](https://user-images.githubusercontent.com/71677948/174603140-e8d1f48a-8c16-451b-99c4-2334f648ed78.png)
+
+# 在Wordle_7words_frequency.py
+單字改為7個字母，增加大小寫變化，且增加數字3（字母對、位置對，但大小寫錯誤）和數字4（字母對，位置錯，且大小寫錯誤）
+![image](https://user-images.githubusercontent.com/71677948/174604657-dbe4a5d7-d2b4-4503-996c-d4bd7bd659a7.png)
+
+# 在Wordle_7words_frequency.py
+在Wordle_7words_frequency.py的基礎上，增加數字5（可能為1、2、3、4其中之一）
