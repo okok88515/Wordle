@@ -17,6 +17,9 @@
 # 在Wordle_7words_frequency.py
 單字改為7個字母，增加大小寫變化，且增加數字3（字母對、位置對，但大小寫錯誤）和數字4（字母對，位置錯，且大小寫錯誤）
 ![image](https://user-images.githubusercontent.com/71677948/174604657-dbe4a5d7-d2b4-4503-996c-d4bd7bd659a7.png)
+![image](https://user-images.githubusercontent.com/71677948/174604755-ab167860-ca31-4fcf-add1-59e19b7a699a.png)
 
 # 在Wordle_7words_frequency.py
 在Wordle_7words_frequency.py的基礎上，增加數字5（可能為1、2、3、4其中之一）
+
+![image](https://user-images.githubusercontent.com/71677948/174607801-158859f5-c63c-470a-a8b0-7346a0e369c7.png)
