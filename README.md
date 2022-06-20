@@ -23,3 +23,7 @@
 在Wordle_7words_frequency.py的基礎上，增加數字5（可能為1、2、3、4其中之一）
 
 ![image](https://user-images.githubusercontent.com/71677948/174607801-158859f5-c63c-470a-a8b0-7346a0e369c7.png)
+
+在console輸入程式檔名 字庫
+以下圖為例 程式檔名為Wordle_hardmode_frequency.py，字庫為sampled71.txt
+![image](https://user-images.githubusercontent.com/71677948/174607925-d7b00f96-ab26-4b59-9433-15801e6cdf66.png)
